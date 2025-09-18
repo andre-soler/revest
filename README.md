@@ -17,10 +17,7 @@ Integrar dois métodos complementares: Haar (clássico) + MediaPipe (deep learni
 Servir como base para estudos de reconhecimento facial, análise de expressões e biometria.
 
 
-Organização do Código
-face-detection/
-├── face_haar_mediapipe.py   # script principal
-├── README.md                # este arquivo
+              # este arquivo
 
 Nota Ética sobre uso de dados faciais
 
